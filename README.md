@@ -71,7 +71,7 @@ This repository contains the code for a simple groceries item list app built usi
    npm start
    ```
 
-4. The frontend will be accessible at `http://localhost:3000`.
+4. The frontend will be accessible at `http://localhost:5173`.
 
 ## Contribution Guidelines
 
