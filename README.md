@@ -22,7 +22,7 @@ This repository contains the code for a simple groceries item list app built usi
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/Swish78/django-react-crud-groceries)>
    ```
 
 2. Navigate to the `backend` directory:
